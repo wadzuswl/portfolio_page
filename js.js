@@ -75,6 +75,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <div class="portfolio-card-stack-wrap">
       ${renderStackIcons(project.stack)}
     </div>
+    <div class="portfolio-card-more-btn">자세히 보기</div>
   </div>
   `;
   }
