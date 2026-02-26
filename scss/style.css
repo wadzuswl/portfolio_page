@@ -109,8 +109,8 @@ body.no-scroll {
   gap: 40px;
 }
 .header nav .hamburger {
-  width: 30px;
-  height: 20px;
+  width: 35px;
+  height: 25px;
   position: relative;
   cursor: pointer;
   background: transparent;
