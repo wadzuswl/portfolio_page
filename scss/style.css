@@ -845,6 +845,22 @@ body.no-scroll {
   width: 100%;
   height: 100%;
 }
+.portfolio .inner .content-section .portfolio-card-wrap .portfolio-card .portfolio-card-more-btn {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0 20px;
+  height: 40px;
+  background: #7DB5FA;
+  color: #FFFFFF;
+  display: inline-block;
+  line-height: 40px;
+  border-radius: 50px;
+  margin-top: 20px;
+  transition: 0.3s;
+}
+.portfolio .inner .content-section .portfolio-card-wrap .portfolio-card .portfolio-card-more-btn:hover {
+  background: #001938;
+}
 .portfolio .inner .content-section .portfolio-card-wrap .portfolio-card:hover {
   background: rgba(173, 205, 245, 0.5);
   cursor: pointer;
