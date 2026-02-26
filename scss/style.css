@@ -1064,7 +1064,7 @@ footer .inner .footer-text-wrap p {
 
 @media (max-width: 768px) {
   .header {
-    height: 40px;
+    height: 55px;
   }
   .header nav {
     flex-direction: row-reverse;
@@ -1074,8 +1074,8 @@ footer .inner .footer-text-wrap p {
     height: 17px;
   }
   .header .nav-click-wrap .logo {
-    width: 68.33px;
-    height: 25px;
+    width: 95.67px;
+    height: 35px;
   }
   .header .nav-click-wrap .github-btn {
     display: none;
@@ -1121,7 +1121,7 @@ footer .inner .footer-text-wrap p {
   }
   .intro {
     background: #FFFFFF;
-    margin-top: 40px;
+    margin-top: 55px;
   }
   .intro .inner {
     gap: 20px;
