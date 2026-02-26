@@ -813,6 +813,24 @@ body.no-scroll {
             }
           }
 
+          .portfolio-card-more-btn {
+            font-size: $fs-16;
+            font-weight: $fw-medium;
+            padding: 0 20px;
+            height: 40px;
+            background: $c-blue-medium;
+            color: $c-white;
+            display: inline-block;
+            line-height: 40px;
+            border-radius: $r-50;
+            margin-top: 20px;
+            transition: $tr-r;
+
+            &:hover {
+              background: $c-blue-dark;
+            }
+          }
+          
           &:hover {
             background: rgba($c-blue-light, 0.5);
             cursor: pointer;
